@@ -14,8 +14,7 @@ This allows flexible queries:
 - `SCD_Type_2_Demo.ipynb` → Python + SQLite demo notebook (works in Google Colab, shows tables step by step).
 
 ## ▶️ Try it Online
-👉 [Open in Colab](https://colab.research.google.com/github/your-username/scd-type-2-demo/blob/main/SCD_Type_2_Demo.ipynb)  
-*(Replace `your-username` with your actual GitHub username)*
+👉 [Open in Colab](https://colab.research.google.com/drive/1_lli546ZV3KPNwMrN8YYLspRIxEGvGPT?usp=sharing)  
 
 ---
 
